@@ -1,2 +1,2 @@
 # AUIE-GIC
-Our IEEE SPL paper, which has been accepted.
+The code of our IEEE SPL paper, which has been accepted.
